@@ -1,4 +1,4 @@
-FROM java:jre-alpine
+FROM openjdk:8-jre-alpine
 MAINTAINER Bram van Dartel <root@rootrulez.com>
 
 ARG customerid
